@@ -62,10 +62,9 @@
 
 #
 
- 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=domain0099 &show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=domain0099&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -74,5 +73,3 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=domain0099&show_icons=true" />
 </picture>
-
-<div align="center">
