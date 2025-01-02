@@ -62,6 +62,5 @@
 
 #
 
-![most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=domain0099&layout=compact)
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=domain0099&show_icons=true&theme=radical)
