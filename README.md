@@ -1,5 +1,5 @@
 <div align= "center">
-   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=RunchRanda's%20Code%20Farm&animation=fadeIn&fontColor=9edb1a&fontSize=60" />
+   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=RunchRanda's%20Coding&animation=fadeIn&fontColor=9edb1a&fontSize=60" />
    </div>
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
