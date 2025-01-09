@@ -36,8 +36,8 @@
 
 ## 📫 Contact
 - Email: [with.you@gmail.com](mailto:with.you@gmail.com)
-- Blog: [https://yourblog.com](https://yourblog.com)
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin)
+- Blog: **Coming soon!**
+- LinkedIn: **Coming soon!**
 
 ## 📈 Activity Record
 - Weekly commits: 50+ commits
