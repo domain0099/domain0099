@@ -1,7 +1,7 @@
-# 👋 Hello! I'm [Su-Min](https://github.com/domain0099).
+# 👋 안녕하세요! 저는 [Su-Min](https://github.com/domain0099)입니다.
 
 ## 👨‍💻 My Journey as a Developer
-I am a **passionate backend developer** who loves working with various tech stacks and continuously enjoys learning new technologies. Currently, I am focusing on backend development with frameworks like **Flask**, **Django**, and **FastAPI**, while also delving into **Database** technologies. Additionally, I am expanding my knowledge in **Linux** development and enhancing my frontend skills with **HTML/CSS** and **JavaScript**.
+저는 **열정적인 백엔드 개발자**입니다. 다양한 기술 스택을 다루는 것을 좋아하고, 항상 새로운 기술을 배우는 것을 즐깁니다. 현재는 **백엔드 개발**에 필요한 **Flask**, **Django**, **FastAPI**와 같은 다양한 Python 프레임워크와 **Database** 기술을 집중적으로 공부 중입니다. 또한 **Linux** 환경에서의 개발과 **HTML/CSS**, **JavaScript**를 활용한 프론트엔드 기술도 함께 익히고 있습니다.
 
 ## 🚀 Currently Learning
 - **Backend Web Application Development** (Flask, Django, FastAPI)
@@ -25,7 +25,7 @@ I am a **passionate backend developer** who loves working with various tech stac
 - 
 
 ## 📫 Contact
-- Email: [your@email.com](mailto:your@email.com)
+- Email: [with.you@gmail.com](mailto:with.you@gmail.com)
 - Blog: [https://yourblog.com](https://yourblog.com)
 - LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin)
 
@@ -34,10 +34,15 @@ I am a **passionate backend developer** who loves working with various tech stac
 - Most recent contribution to an open source project: [Awesome Repo](https://github.com/opensource/repo)
 
 ## 🏆 My Goals
-- Deepen my understanding of **backend development**
-- Contribute to **open-source projects**
-- Master the latest tech stacks (e.g., GraphQL, Serverless)
+- **백엔드 개발**에 대한 깊은 이해
+- **오픈소스 프로젝트** 기여
+- 최신 기술 스택 습득 (예: GraphQL, Serverless)
+- **백엔드 개발자로서의 커뮤니케이션 능력** 향상
+- **백엔드 개발자로서의 구현 능력** 향상
+- **백엔드 개발자로서 당연한 것에 의문 품기**
+- **백엔드 개발자로서 풍부한 CS 지식** 갖추기
+- **백엔드 개발자로서 주도성** 갖추기
 
 ---
 
-Thank you! 😊
+감사합니다! 😊
