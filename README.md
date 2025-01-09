@@ -1,6 +1,6 @@
-# 🌟 안녕하세요! 세상에 긍정적인 변화를 만드는 **백엔드 개발자, [Su-Min](https://github.com/domain0099)**입니다. 🌟
+## 🌟 안녕하세요! 세상에 긍정적인 변화를 만드는 **백엔드 개발자, [Su-Min](https://github.com/domain0099)**입니다. 🌟
 
-## 👨‍💻 My Journey as a Developer
+### 👨‍💻 My Journey as a Developer
 저는 **백엔드 개발자**로서, 웹 애플리케이션의 핵심을 구축하고, 시스템의 성능과 확장성을 고려한 개발을 통해 **보다 나은 사용자 경험을 제공**하는 데 관심을 두고 있습니다. 
 
 코드를 작성하는 데 있어 항상 **효율성과 안정성**을 중요하게 생각하며, 매일 새로운 기술을 배우고 이를 적용하기 위해 꾸준히 노력하고 있습니다. 주로 **Python**을 사용한 **Flask**, **Django**, **FastAPI**와 같은 백엔드 프레임워크를 공부 중이고, **데이터베이스 설계 및 최적화**, **Linux 환경에서의 서버 관리**, **프론트엔드 기술**에 대한 기초적인 이해도 함께 쌓아가고 있습니다.
@@ -13,11 +13,11 @@
 
 **"끊임없이 배우고, 성장하고, 도전하는 개발자."**
 
-## 🚀 Currently Learning
+### 🚀 Currently Learning
 - **Backend Web Application Development** (Flask, Django, FastAPI)
 - **Database**, **Linux**, **HTML/CSS**, **JavaScript**
 
-## 📚 My Favorite Tech Stack
+### 📚 My Favorite Tech Stack
 - 💻 **Backend**: Flask, Django, FastAPI, Python
 - 🗄️ **Database**: MySQL, PostgreSQL, SQLite, MongoDB
 - 🐧 **Linux**: Shell scripting, server environment setup
@@ -25,25 +25,25 @@
 - ⚙️ **DevOps**: Docker, Kubernetes
 - 💡 **Others**: Git, GitHub, CI/CD, TypeScript, GraphQL
 
-## 📊 **My GitHub Stats**
+### 📊 **My GitHub Stats**
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=domain0099&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-## 🔥 **Top Languages**
+### 🔥 **Top Languages**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domain0099&layout=compact&theme=radical)
 
-## 💻 Learning Projects & Practice
+### 💻 Learning Projects & Practice
 - 
 
-## 📫 Contact
+### 📫 Contact
 - Email: [with.you@gmail.com](mailto:with.you@gmail.com)
 - Blog: **Coming soon!**
 - LinkedIn: **Coming soon!**
 
-## 📈 Activity Record
+### 📈 Activity Record
 - Weekly commits: 50+ commits
 - Most recent contribution to an open source project: [Awesome Repo](https://github.com/opensource/repo)
 
-## 🏆 My Goals
+### 🏆 My Goals
 - **백엔드 개발**에 대한 깊은 이해
 - **오픈소스 프로젝트** 기여
 - 최신 기술 스택 습득 (예: GraphQL, Serverless)
