@@ -21,7 +21,7 @@
 - 
 
 ### 📫 Contact
-- Email: [with.you@gmail.com](mailto:with.you@gmail.com)
+- Email: [with.you70@gmail.com](mailto:with.you@gmail.com)
 - Blog: **Coming soon!**
 - LinkedIn: **Coming soon!**
 
